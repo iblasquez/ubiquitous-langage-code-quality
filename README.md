@@ -31,7 +31,7 @@
 
 - Au final, cette SAE a permis de  **fournir un outil de développement permettant de tracker l'Ubiquitious Langage dans le code**.
 	-  Le dépôt [https://github.com/carlodrift/codelinguo](https://github.com/carlodrift/codelinguo/releases/tag/v1.0-alpha.s6) contient le code et une version fonctionnelle d'un des 3 projets dévéloppés durant cette SAE
-	-  Une démonstration des fonctionnalités proposées par ce projet est disponible [ici](.ressources/demo_codelinguo_s6.mp4)
+	-  Une démonstration des fonctionnalités proposées par ce projet est disponible [ici](./ressources/demo_codelinguo_s6.mp4)
 
 ### Une présentation à la soirée du Test Logiciel de Bordeaux en mars 2024 :
 
@@ -39,7 +39,7 @@ L'histoire de ce développement d'un tracker d'Ubiquitous Language (UL) dans le 
 
 Cette présentation a été réalisée par un binône enseignant/étudiant : [Isabelle BLASQUEZ](https://github.com/iblasquez) et [Clément RAYNAUD](https://www.linkedin.com/in/raynaud-clement/) donnant ainsi la possibilité à un étudiant de BUT3 Informatique de faire ses premiers pas dans une conférence de professionnels en montrant son travail et son savoir-faire.
 
-Les **transparents** de cette présentation sont disponible [**ici**](.ressources/2024_STL_Bordeaux_Blasquez_Raynaud.pdf) 
+Les **transparents** de cette présentation sont disponible [**ici**](./ressources/2024_STL_Bordeaux_Blasquez_Raynaud.pdf) 
 
  
 ***Résumé de la présentation :***  
