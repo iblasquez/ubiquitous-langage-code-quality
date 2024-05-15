@@ -25,7 +25,7 @@
 
 - C'est ainsi que 3 groupes d'étudiants ont pu travailler tout au long de leur troisième année de BUT Informatique sur **SAE** (**S**ituation d'**A**pprentissage **E**valuation c-a-d une sorte de projet tuteuré) mêlant Ubiquitous Langage, Qualité de Code et IA-générative.
 
-- Les consignes données aux étudiants comme cahier des charges de cette SAE sont disponibles : [ici](.ressources/2023_SAE_BUT3_QualiteCode_Nommage.pdf) 
+- Les consignes données aux étudiants comme cahier des charges de cette SAE sont disponibles : [ici](./ressources/2023_SAE_BUT3_QualiteCode_Nommage.pdf) 
 
 
 
